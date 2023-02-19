@@ -1,0 +1,7 @@
+
+
+// Left off at: https://youtu.be/lATafp15HWA?t=104
+
+// Product Based on: https://github.com/WebDevSimplified/react-ts-shopping-cart/tree/main/src
+
+// Shopping Cart SVG: https://iconmonstr.com/shopping-cart-3-svg/
