@@ -28,4 +28,4 @@ export default App
 // 2. Open the Command Terminal
 // 3. Run the command: npm install
 // 4. Run the command: npm run dev
-// 5. Open a browser and go to: http://localhost:5173
+// 5. Open a browser and go to: http://localhost:PORTNUMBER
