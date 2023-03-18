@@ -23,4 +23,9 @@ function App() {
 
 export default App
 
-// Left off at: https://youtu.be/lATafp15HWA?t=3187
+// How To Run This Project
+// 1. Open the project in VS Code
+// 2. Open the Command Terminal
+// 3. Run the command: npm install
+// 4. Run the command: npm run dev
+// 5. Open a browser and go to: http://localhost:5173
